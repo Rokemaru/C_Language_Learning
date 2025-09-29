@@ -133,8 +133,8 @@
     <ClCompile Include="chibany.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ouyoukadai_24A2051.c" />
-    <ClCompile Include="test_0929.c">
+    <ClCompile Include="ouyoukadai02_24A2051.c" />
+    <ClCompile Include="kisokadai02_24A2051.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>

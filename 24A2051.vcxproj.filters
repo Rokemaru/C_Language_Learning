@@ -24,10 +24,10 @@
     <ClCompile Include="chibany_drawer.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="test_0929.c">
+    <ClCompile Include="kisokadai02_24A2051.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="ouyoukadai_24A2051.c">
+    <ClCompile Include="ouyoukadai02_24A2051.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
