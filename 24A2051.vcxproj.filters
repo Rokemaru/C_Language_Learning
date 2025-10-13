@@ -51,6 +51,15 @@
     <ClCompile Include="test_04.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="test_05.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="kisokkadai04_24A2051.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ouyoukadai04_24A2051.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chibany.h">
