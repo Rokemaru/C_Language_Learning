@@ -84,6 +84,12 @@
     <ClCompile Include="ouyoukadai08_24A2051.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="kisokadai09_24A2051.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ouyoukadai09_24A2051.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chibany.h">
